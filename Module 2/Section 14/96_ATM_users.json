@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "username": "user",
+    "email": "user@abc.com",
+    "pin": 1234,
+    "balance": 123454
+  }
+]
